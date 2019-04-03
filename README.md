@@ -23,7 +23,7 @@ On your `README.md`:
 [playstore-url]: https://play.google.com/store/apps/details?id=com.almapp.ucmaps
 ```
 
-[appstore-image]: https://mrpatiwi.github.io/app-badges/appstore.png
+[appstore-image]: https://littlelightfordestiny.github.io/app-badges/appstore.png
 [appstore-url]: https://itunes.apple.com/id/app/mapas-uc/id1080468856
-[playstore-image]: https://mrpatiwi.github.io/app-badges/playstore.png
+[playstore-image]: https://littlelightfordestiny.github.io/app-badges/playstore.png
 [playstore-url]: https://play.google.com/store/apps/details?id=com.almapp.ucmaps
